@@ -176,11 +176,15 @@ you should first [activate Ubuntu for Windows by following this tutorial](http:/
 Once you have your Ubuntu environment active,
 you will need to install Git by running:
 
-  sudo apt-get install git
+~~~
+sudo apt-get install git
+~~~
 
 We have not tested it, but you possibly also need to install Atom from within Ubuntu:
 
-  sudo apt-get install atom
+~~~
+sudo apt-get install atom
+~~~
 
 
 ### Mac OS X
