@@ -34,7 +34,7 @@ You have some responsibility for ensuring you meet the workshop requirements.
 
 Please do the right thing by other attendees:
 
-**You must have all software installed and an internet connection established before the workshop begins!**
+**You must have all software installed and an internet connection established before the workshop begins.**
 
 
 ### Internet Connection
