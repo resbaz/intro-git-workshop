@@ -1,5 +1,5 @@
-Introductory Git and GitHub Workshop
-====
+Table of Contents
+----
 
 * [Introduction](#introduction)
 * [Workshop Requirements](#workshop-requirements)
