@@ -123,15 +123,15 @@ You will be offered several options.
 The default options should be safe.
 The following screenshots show the options we tested with.
 
-![](Installation_options.jpg)
+![](./figures/Installation_options.jpg)
 
-![](lineendingconversion.jpg)
+![](./figures/lineendingconversion.jpg)
 
-![](OpenSSL.jpg)
+![](./figures/OpenSSL.jpg)
 
-![](terminalemulator.jpg)
+![](./figures/terminalemulator.jpg)
 
-![](configuringextraoptions.jpg)
+![](./figures/configuringextraoptions.jpg)
 
 
 #### Cygwin
