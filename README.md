@@ -1,5 +1,4 @@
-Table of Contents
-----
+## Table of Contents
 
 * [Introduction](#introduction)
 * [Workshop Requirements](#workshop-requirements)
