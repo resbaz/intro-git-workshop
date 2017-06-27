@@ -249,3 +249,18 @@ but we don't want you to frustratedly bang your head against the wall for days :
 * [Twitter](https://twitter.com/resnomicon)
 
 See you at the workshop!
+
+
+References
+----
+
+https://github.com/cryptarch/sgit.git
+https://daringfireball.net/projects/markdown/
+
+Github Cheat Sheet for Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+CC Licence: https://raw.githubusercontent.com/resbaz/intro-git-workshop/master/LICENSE.md
+
+http://phdcomics.com/comics/archive/phd101212s.gif
+
+http://swcarpentry.github.io/git-novice/02-setup/
