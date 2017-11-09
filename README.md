@@ -1,3 +1,7 @@
+## Upcoming Workshop
+
+[Register Here](https://resbaz.github.io/intro-git-workshop/)
+
 ## Table of Contents
 
 * [Introduction](#introduction)
