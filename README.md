@@ -1,5 +1,8 @@
 ## Upcoming Workshop
 
+1-5pm Tuesday 28 November
+ERC, Building 171, Level 3, Rooms 329 & 330
+
 [Register Here](https://resbaz.github.io/intro-git-workshop/)
 
 ## Table of Contents
