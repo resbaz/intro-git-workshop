@@ -1,12 +1,17 @@
 ## Upcoming Workshop
 
+**Time and Date**
+
 9.30am - 4.30pm Wednesday 16 May 2018
+
+**Location**
 ERC, Building 171, Level 3, Rooms 329 & 330
+[Visual Guide to Workshop Location from Swanston Tram Stop](https://tinyurl.com/tram2colab)
+
+[Visual Guide to Workshop Location from House of Cards](https://tinyurl.com/coffee2colab)
+
 
 [Register Here](https://intro-to-git-may-2018.eventbrite.com.au/)
-
-[Visual Guide to Workshop Location from Swanston Tram Stop](https://tinyurl.com/tram2colab)
-[Visual Guide to Workshop Location from House of Cards](https://tinyurl.com/coffee2colab)
 
 ## Table of Contents
 
