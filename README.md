@@ -1,6 +1,6 @@
 ## Upcoming Workshop
 
-[Register Here](https://intro-to-git-may-2018.eventbrite.com.au/)
+<!-- [Register Here](https://intro-to-git-may-2018.eventbrite.com.au/) -->
 
 **Time and Date**
 
