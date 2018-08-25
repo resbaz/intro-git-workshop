@@ -4,7 +4,6 @@
 
 **Time and Date**
 
-9.30am - 4.30pm Wednesday 16 May 2018
 
 **Location**
 
